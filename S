@@ -1,0 +1,4 @@
+git clone https://github.com/Atlas8t/MinecraftClone.git
+cd MinecraftClone
+npm install
+npm run dev
